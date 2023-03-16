@@ -5,7 +5,7 @@ import java.util.Scanner;
 import javax.print.event.PrintEvent;
 
 /**
- * <h1>Exercício 5</h1>
+ * <h1>Exercício 5 - Loops </h1>
  * Esse programa mostrara a tabuada do 1 ao 10 usando o numero que
  * o usuário inserir.
  * 

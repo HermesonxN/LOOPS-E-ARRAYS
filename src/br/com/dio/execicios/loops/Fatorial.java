@@ -3,7 +3,7 @@ package br.com.dio.execicios.loops;
 import java.util.Scanner;
 
 /**
- * <h1>Exercício 6</h1>
+ * <h1>Exercício 6 - Loops </h1>
  * Esse programa mostrara o fatorial de um numero inserido pelo usuário.
  * 
  * @author Hermeson Oliveira

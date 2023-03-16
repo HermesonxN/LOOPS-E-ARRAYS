@@ -3,7 +3,7 @@ package br.com.dio.execicios.loops;
 import java.util.Scanner;
 
 /**
- * <h1>Exercício 1</h1>
+ * <h1>Exercício 1 - Loops </h1>
  * Esse programa ficara em laço(loop) pedindo nome e idade do usuário
  * até que seja dado o valor 0 a variável nome.
  * 

@@ -3,7 +3,7 @@ package br.com.dio.execicios.loops;
 import java.util.Scanner;
 
 /**
- * <h1>Exercício 3</h1>
+ * <h1>Exercício 3 - Loops </h1>
  * O programa abaixo ira pedir 5 numeros ao usuário, dizer qual foi o maior
  * e calcular a media desses numeros.
  * 

@@ -3,7 +3,7 @@ package br.com.dio.execicios.loops;
 import java.util.Scanner;
 
 /**
- * <h1>Exercício 2</h1>
+ * <h1>Exercício 2 - Loops </h1>
  * Esse programa verifica a nota dada pelo usuário, se ela for maior que dez ou menor que zero,
  * seja retornado invalido e tera que digitar novamente.
  * 

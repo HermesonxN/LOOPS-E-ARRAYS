@@ -3,7 +3,7 @@ package br.com.dio.execicios.loops;
 import java.util.Scanner;
 
 /**
- * <h1>Exercício 4</h1>
+ * <h1>Exercício 4 - Loops </h1>
  * Nesse programa o usuário determinara uma quantidade de números que serão inseridos
  * e depois vai ser retornado quantos números pares e impares tinham nos que foram
  * listados por ele.
